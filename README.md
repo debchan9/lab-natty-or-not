@@ -1,51 +1,48 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+**🌊 Projeto Natty or Not - Monólogo sobre Microplásticos**
+--
 
-## 🚀 Introdução
+**📒 Descrição**
 
-> Woooow! Look at this 👀
+Este projeto faz parte do Lab Natty or Not da Digital Innovation One (DIO).
+Minha criação foi um áudio/monólogo em vídeo curto (vertical, 9:16), com tom jovem e engajador, abordando o impacto dos microplásticos nos oceanos e sua relação com a biodiversidade marinha.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+**🤖 Tecnologias Utilizadas**
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+>OpenAI → apoio na criação e refinamento do roteiro.
 
-### Objetivos
+>Runway AI → geração do vídeo vertical com avatar virtual.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+>Git & GitHub → versionamento e publicação do projeto.
 
-### Template
+**🧐 Processo de Criação**
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+>Defini o tema: microplásticos e seus impactos ambientais.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+>Criei o roteiro em português, com frases curtas e pausas naturais, simulando linguagem de redes sociais.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+>Usei o OpenAI para estruturar e polir o texto.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+>Implementei o roteiro no Runway AI, configurando o formato vertical (9:16) e estilo jovem.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+>Publiquei o resultado neste repositório como parte do desafio da DIO.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+**🚀 Resultados**
 
-### Exemplos e Insigths
+🎙️ Áudio/Monólogo:
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+“Você sabia que tem plástico invisível no oceano?
+São os microplásticos.
+Pedacinhos minúsculos de plástico...”
 
-## Links Interessantes
+📹 Vídeo Vertical (9:16):
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+>Jovem falando diretamente para a câmera, em um cenário de praia.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+>Linguagem simples, curta e engajante.
+
+>Mensagem final: “Menos plástico. Mais consciência. Mais oceano vivo.”
+
+**💭 Reflexão**
+Criar este conteúdo me fez refletir sobre como a IA pode ser usada para educação ambiental. O desafio foi transmitir uma mensagem séria de forma leve e acessível, simulando o estilo de influenciadores digitais.
+
+
